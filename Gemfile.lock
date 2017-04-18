@@ -1,0 +1,18 @@
+GIT
+  remote: https://github.com/token-cjg/DepGem.git
+  revision: 9bdc88db7002e439f1f3fb432bc2c14fafe93818
+  branch: master
+  specs:
+    hola (0.0.0)
+
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hola!
+
+BUNDLED WITH
+   1.14.6

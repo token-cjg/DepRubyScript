@@ -1,0 +1,3 @@
+require 'hola'
+
+Hola.hi
