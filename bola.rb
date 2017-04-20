@@ -1,6 +1,12 @@
-require 'hello.rb'
+load 'hello.rb'
+require 'hola'
+require 'hola/bola'
 
-greeting = new Hello(2, 3)
+Hola.hi
+Bola.hi
+
+
+greeting = Hello.new(2, 3)
 
 greeting.greet
 

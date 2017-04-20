@@ -1,10 +1,9 @@
 require 'hola'
 
 class Hello
-
-  def init(w, s)
-    weight = w
-    strength = s
+  def initialize(w, s)
+    @weight = w
+    @strength = s
   end
 
   def greet
@@ -12,6 +11,6 @@ class Hello
   end
 
   def strike
-    Bola.roll_to_uncoil(weight, strength)
+    Hola.bola(@weight, @strength)
   end
 end
