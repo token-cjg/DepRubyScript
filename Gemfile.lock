@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/token-cjg/DepGem.git
-  revision: 9bdc88db7002e439f1f3fb432bc2c14fafe93818
-  tag: 0.0.1
+  revision: 32dcb88ee5be947a4a07d19da52cc0730e50955e
+  tag: 0.0.2
   specs:
-    hola (0.0.0)
+    hola (0.0.2)
 
 GEM
   specs:
